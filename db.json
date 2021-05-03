@@ -5,7 +5,7 @@
     "email": "oyievesho@icloud.com",
     "address": "wilson avenue, off, Ago palace way,Lagos",
     "phone":"09060440476",
-    "company":{"name":"Upperlink"},
+    "company":"Upperlink",
     "date-of-birth":"03/04/2002",
       
 },
@@ -15,7 +15,7 @@
     "email": "bello@live.com",
     "address": "unity street,off DR Fasheun street,Ago Palace way,Lagos",
     "phone":"08023636894",
-    "company":{"name":"Andela"},
+    "company":"Andela",
     "date-of-birth":"08/03/1998",
       
 },
@@ -25,7 +25,7 @@
     "email": "eatolu@gmail.com",
     "address": "15 herbert macauley way ,Yaba, Lagos",
     "phone":"09028346740",
-    "company":{"name":"Google"},
+    "company":"Google",
     "date-of-birth":"07/01/2000",
       
 },
@@ -35,7 +35,7 @@
     "email": "oyievesho50@gmail.com",
     "address": "ilori street,isolo,Lagos",
     "phone":"08133701111",
-    "company":{"name":"Facebook"},
+    "company":"Facebook",
     "date-of-birth":"03/04/2003",
       
 }
