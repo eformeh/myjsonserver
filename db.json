@@ -6,7 +6,8 @@
     "address": "wilson avenue, off, Ago palace way,Lagos",
     "phone":"09060440476",
     "company":"Upperlink",
-    "date-of-birth":"03/04/2002" 
+    "date-of-birth":"03/04/2002"
+      
 },
 {
     "id": 2,
@@ -16,6 +17,7 @@
     "phone":"08023636894",
     "company":"Andela",
     "date-of-birth":"08/03/1998"
+      
 },
 {
     "id": 3,
@@ -25,6 +27,7 @@
     "phone":"09028346740",
     "company":"Google",
     "date-of-birth":"07/01/2000"
+      
 },
 {
     "id": 4,
@@ -34,6 +37,7 @@
     "phone":"08133701111",
     "company":"Facebook",
     "date-of-birth":"03/04/2003"
+      
 }
-]
 
+]
