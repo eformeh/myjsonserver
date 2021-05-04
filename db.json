@@ -1,4 +1,4 @@
-"user" : [
+{"user" : [
 {
     "id": 1,
     "name": "Eformeh Wisdom",
@@ -35,3 +35,4 @@
     "company":"Facebook",
     "date-of-birth":"03/04/2003"      
 }]
+}
