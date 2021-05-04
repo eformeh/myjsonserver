@@ -7,8 +7,7 @@
     "phone":"09060440476",
     "company":"Upperlink",
     "date of birth":"03/04/2002",
-    "role":"User"
-      
+    "role":"User"  
 },
 {
     "id": 2,
@@ -19,7 +18,6 @@
     "company":"Andela",
     "date of birth":"08/03/1998",
     "role":"User"
-      
 },
 {
     "id": 3,
@@ -30,7 +28,6 @@
     "company":"Google",
     "date of birth":"07/01/2000",
     "role":"User"
-      
 },
 {
     "id": 4,
@@ -41,8 +38,6 @@
     "company":"Facebook",
     "date of birth":"03/04/2003",
     "role":"User"
-      
 }
-
 ]
 
