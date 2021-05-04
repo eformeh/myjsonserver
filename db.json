@@ -6,8 +6,7 @@
     "address": "wilson avenue, off, Ago palace way,Lagos",
     "phone":"09060440476",
     "company":"Upperlink",
-    "date of birth":"03/04/2002",
-    "role":"User"  
+    "date-of-birth":"03/04/2002" 
 },
 {
     "id": 2,
@@ -16,8 +15,7 @@
     "address": "unity street,off DR Fasheun street,Ago Palace way,Lagos",
     "phone":"08023636894",
     "company":"Andela",
-    "date of birth":"08/03/1998",
-    "role":"User"
+    "date-of-birth":"08/03/1998"
 },
 {
     "id": 3,
@@ -26,8 +24,7 @@
     "address": "15 herbert macauley way ,Yaba, Lagos",
     "phone":"09028346740",
     "company":"Google",
-    "date of birth":"07/01/2000",
-    "role":"User"
+    "date-of-birth":"07/01/2000"
 },
 {
     "id": 4,
@@ -36,8 +33,7 @@
     "address": "ilori street,isolo,Lagos",
     "phone":"08133701111",
     "company":"Facebook",
-    "date of birth":"03/04/2003",
-    "role":"User"
+    "date-of-birth":"03/04/2003"
 }
 ]
 
